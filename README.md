@@ -33,7 +33,7 @@ function moveCardMiddleRandom(n, arr) {
  */
 function selectRandomCards() {
   // 定义一副扑克牌的数组
-  let arr = ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "J", "Q", "K", "A"];
+  let arr = ["2", "3", "4", "5", "6", "7", "8", "9", "10", "J", "Q", "K", "A"];
   // 定义一个数组用于存放随机抽取的4张牌
   let selectedCards = [];
 
